@@ -1,0 +1,6 @@
+C:\Users\HungND\source\repos\ExLute\x64\Debug\sqlcipher.dll
+C:\Users\HungND\source\repos\ExLute\x64\Debug\libcrypto-3-x64.dll
+C:\Users\HungND\source\repos\ExLute\ExLute\x64\Debug\ExLute.vcxproj.Up2Date
+C:\Users\HungND\Desktop\Share\x64\Debug\sqlcipher.dll
+C:\Users\HungND\Desktop\Share\x64\Debug\libcrypto-3-x64.dll
+C:\Users\HungND\Desktop\Share\ExLute\x64\Debug\ExLute.vcxproj.Up2Date

@@ -1,0 +1,14 @@
+﻿  Generating code
+  0 of 1392 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ExLute.vcxproj -> C:\Users\HungND\source\repos\ExLute\x64\Release\ExLute.exe
+  Remove the PDB string
+  
+  C:\Users\HungND\source\repos\ExLute\ExLute>"C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x86\signtool.exe" sign /a /f "C:\Users\HungND\source\repos\ExLute\x64\Release\liem.pfx" /p Anhliemdepoet /td sha256 /fd sha256 "C:\Users\HungND\source\repos\ExLute\x64\Release\ExLute.exe" 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\HungND\source\repos\ExLute\x64\Release\ExLute.exe
+  
+  Found 1 occurrence(s) of b'C:\\Users\\HungND\\source\\repos\\ExLute\\x64\\Release\\ExLute.pdb'
+  Saved modified file to: C:\Users\HungND\source\repos\ExLute\x64\Release\ExLute.exe
